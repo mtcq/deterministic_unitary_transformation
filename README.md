@@ -1,6 +1,7 @@
-## Code to accompany: *[Deterministic transformations between unitary operations: Exponential advantage with adaptive quantum circuits and the power of indefinite causality](https://arxiv.org/abs/xxx)*
+## Code to accompany: [Deterministic transformations between unitary operations: Exponential advantage with adaptive quantum circuits and the power of indefinite causality](https://arxiv.org/abs/2109.08202)
 #### Marco Túlio Quintino and Daniel Ebler
 
+This is a repository for the code used to calculate the numerical results presented in the article [Deterministic transformations between unitary operations: Exponential advantage with adaptive quantum circuits and the power of indefinite causality](https://arxiv.org/abs/2109.08202).
 
 
  MATLAB code requires:
