@@ -65,3 +65,6 @@ Notebook used to certify the qutrit values for unitary transposition, presented 
 
 - [ComputerAssitedProofd3INV.nb](https://github.com/mtcq/deterministic_unitary_transformation/blob/main/code/ComputerAssitedProofd3INV.nb):
 Notebook used to certify the qutrit values for unitary inversion presented in the table of the paper.
+
+
+This repository also includes the folder MatlabVariables, which contain important variables used in the computer assisted proof written in mathematica notebooks. Note that the MATLAB script creates this folder and all the variables included on it, hence if you run the MATLAB code before the computer assisted mathematica notebook, this folder is not required.
